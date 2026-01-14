@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shipper/Address Issues.md",
+                "file": "Carrier/Carrier Stuck Processing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Address Issues"
+              "title": "Carrier Stuck Processing"
             }
           }
         ]
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Bugs"
             }
+          },
+          {
+            "id": "8fcb82a0c2153d0a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +182,13 @@
   },
   "active": "a62c0fde6c1e801c",
   "lastOpenFiles": [
+    "Load Bugs/No Tender or No Load.md",
     "Load Bugs/Status Mismatch (AHX vs. RR).md",
     "Shipper/Address Issues.md",
+    "z Images/Pasted image 20260114082830.png",
+    "z Images/Pasted image 20260114082812.png",
+    "z Images",
+    "z Images/Pasted image 20260114082655.png",
     "Pasted image 20260113155452.png",
     "Shipper",
     "Load Bugs/Untitled.md",
@@ -183,7 +198,6 @@
     "Debugging Notes/Bugs.md",
     "Debugging Notes/No Manifest.md",
     "Pasted image 20251023162944.png",
-    "Load Bugs/No Tender or No Load.md",
     "Load Bugs",
     "Pasted image 20251103095904.png",
     "Pasted image 20251028113427.png",
