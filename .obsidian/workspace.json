@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shipper/Load Not Associated with a Registered Shipper.md",
+                "file": "All Users/2 Factor Authentication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Load Not Associated with a Registered Shipper"
+              "title": "2 Factor Authentication"
             }
           }
         ],
@@ -197,11 +197,13 @@
   },
   "active": "dc00e7a8b05c32a3",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Shipper/Load Not Associated with a Registered Shipper.md",
     "Carrier/Carrier Stuck Processing.md",
-    "Load Bugs/No Tender or No Load.md",
-    "Load Bugs/Status Mismatch (AHX vs. RR).md",
+    "All Users/2 Factor Authentication.md",
+    "All Users",
+    "Loads/No Tender or No Load.md",
+    "Shipper/Load Not Associated with a Registered Shipper.md",
+    "Untitled.md",
+    "Loads/Status Mismatch (AHX vs. RR).md",
     "Shipper/Address Issues.md",
     "z Images/Pasted image 20260114082830.png",
     "z Images/Pasted image 20260114082812.png",
@@ -215,7 +217,7 @@
     "Debugging Notes/Bugs.md",
     "Debugging Notes/No Manifest.md",
     "Pasted image 20251023162944.png",
-    "Load Bugs",
+    "Loads",
     "Pasted image 20251103095904.png",
     "Pasted image 20251028113427.png",
     "Pasted image 20251028101547.png",

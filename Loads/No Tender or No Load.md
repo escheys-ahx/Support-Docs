@@ -29,6 +29,8 @@ If a load was booked, but no tender # was generated
 
 There is no tender #, but the order exists in Rose Rocket
 
+>WARNING: This is only to be done if it is still in pending status. Otherwise you can link the external id and the tenderID in the load metadata. Make sure load short code is correct, then in load meta data set the TenderID.
+
 ##  Solution
 
 1. Find the loadShortCode in the database, using the loadId from the url in AHX
