@@ -1,5 +1,6 @@
+## In Poseidon
 ### Step 1
-Grab the uid of the carrier and use it to find the storeFrontIdV2
+Grab the haulerId of the carrier and use it to find the storeFrontIdV2
 
 ### Step 2
 Use the storeFrontIdV2 to run Company - Get mutation in insomnia
@@ -18,4 +19,11 @@ Use the user id in the Staff User Update
 }
 ```
 
+
+## In our DB
+### Step 1
+Use the haulerId to get the uid of the carrier.
+
+### Step 2
+Search that in the customer contacts table
 
