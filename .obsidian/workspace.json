@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrier/Update Name of Carrier.md",
+                "file": "Loads/Status Mismatch (AHX vs. RR).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Update Name of Carrier"
+              "title": "Status Mismatch (AHX vs. RR)"
+            }
+          },
+          {
+            "id": "e08228dc24ce293a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,11 +193,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "2ad3f44601ff1fb6",
+  "active": "e08228dc24ce293a",
   "lastOpenFiles": [
-    "Loads/Status Mismatch (AHX vs. RR).md",
-    "Carrier/Update Name of Carrier.md",
     "Loads/No Tender or No Load.md",
+    "Carrier/Update Name of Carrier.md",
+    "Loads/Status Mismatch (AHX vs. RR).md",
     "Shipper/Load Not Associated with a Registered Shipper.md",
     "Shipper/Address Issues.md",
     "Carrier/Carrier Stuck Processing.md",
