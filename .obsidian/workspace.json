@@ -25,12 +25,14 @@
             "id": "e08228dc24ce293a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "Carrier/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -195,8 +197,9 @@
   },
   "active": "e08228dc24ce293a",
   "lastOpenFiles": [
-    "Loads/No Tender or No Load.md",
     "Carrier/Update Name of Carrier.md",
+    "Carrier/Untitled.md",
+    "Loads/No Tender or No Load.md",
     "Loads/Status Mismatch (AHX vs. RR).md",
     "Shipper/Load Not Associated with a Registered Shipper.md",
     "Shipper/Address Issues.md",
