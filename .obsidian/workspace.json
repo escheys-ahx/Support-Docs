@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "cd5fe9ded8d6bed7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "e08228dc24ce293a",
+  "active": "cd5fe9ded8d6bed7",
   "lastOpenFiles": [
     "Carrier/Update Name of Carrier.md",
     "Carrier/Untitled.md",
